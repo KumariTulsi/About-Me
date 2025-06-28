@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Kumari Tulsi
 
-🎓 Graduate in Information Technology  
+🎓 B.Tech Graduate in Information Technology  
 🔐 Entry-Level Cybersecurity Enthusiast  
 📜 Certified by IBM, Cisco, Deloitte, IIT Delhi, and Simplilearn  
 💻 Focused on Threat Detection, Ethical Hacking, and System Hardening  
